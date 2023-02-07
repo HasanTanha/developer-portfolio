@@ -30,8 +30,15 @@ p {
   background-repeat: no-repeat;
 }
 
+.middle-banner {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
 section {
   height: 500px;
+  margin-bottom: 150px;
 }
 
 .link-btn {
