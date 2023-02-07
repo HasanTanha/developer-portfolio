@@ -33,3 +33,12 @@ p {
 section {
   height: 500px;
 }
+
+.link-btn {
+  background-image: linear-gradient(147deg, #ffe53b 0%, #ff2525 74%);
+  text-decoration: none;
+  font-weight: 700;
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+}
