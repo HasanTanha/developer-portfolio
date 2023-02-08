@@ -5,13 +5,16 @@ body {
 h1 {
   font-size: 50px;
 }
-
+h2 {
+  font-size: 35px;
+}
 .name-highlight {
   color: orangered;
 }
 
 p {
-  color: grey;
+  color: dimgray;
+  padding-right: 20px;
 }
 
 .half-width {
